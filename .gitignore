@@ -4,3 +4,4 @@ qemu-build/*
 .vscode
 .metals
 .scalafmt.conf
+sw/
